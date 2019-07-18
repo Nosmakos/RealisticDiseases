@@ -1,0 +1,9 @@
+name: BornDisease
+version: 1.0
+description: A virus who will not stop and will continue to create terror in the lives of people.
+main: me.nosmakos.borndisease.BornDisease
+api-version: 1.13
+commands:
+    realisticdiseases:
+      description: To get the list of all the available commands and permissions.
+      aliases: [rd]
