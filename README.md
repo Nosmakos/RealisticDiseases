@@ -1,1 +1,1 @@
-# RealisticDiseases
+# The Realistic Diseases Minecraft Plugin
